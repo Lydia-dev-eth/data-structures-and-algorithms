@@ -1,25 +1,33 @@
-# MIT 6.006 – Introduction to Algorithms
+ # LeetCode Solutions
 
-This directory contains my work while studying **MIT 6.006: Introduction to Algorithms**.
+This directory contains my solutions to LeetCode problems.
 
-Each lecture is organized into its own directory and includes notes, implementations, and supporting material developed while following the course.
+Problems are organized by topic rather than difficulty to reinforce common algorithmic patterns and data structures.
 
 ## Structure
 
 ```text
-lecture-01/
-lecture-02/
-lecture-03/
+arrays/
+binary-search/
+linked-list/
+stack/
+queue/
+heap/
+trees/
+graphs/
+dynamic-programming/
 ...
 ```
 
-Each lecture directory may contain:
+Each solution typically includes:
 
-* **README.md** – Overview of the lecture.
-* **notes.md** – Personal notes and explanations.
-* **Python files** – Implementations and experiments based on the lecture.
+* Problem number and title
+* Link to the original problem
+* Solution
+* Time complexity
+* Space complexity
+* Brief explanation of the approach
 
 ## Purpose
 
-The purpose of this directory is to build a strong theoretical foundation in algorithms and data structures by studying course material and implementing concepts from scratch.
-
+The goal of this directory is to strengthen problem-solving skills by applying concepts learned through coursework and independent study.
