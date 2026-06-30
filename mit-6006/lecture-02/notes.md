@@ -103,8 +103,3 @@ you'd resize constantly and lose the amortized guarantee.
 
 ---
 
-## What's coming next
-
-None of these support fast insert/delete at an arbitrary index in sub-linear
-time — they're all O(n) or O(i) for that. Lecture 7 introduces trees, which
-bring this down to O(log n).
